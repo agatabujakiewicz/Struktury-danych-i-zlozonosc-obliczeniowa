@@ -1,0 +1,12 @@
+Dijkstra macierzowo dla V = 100 i gestosci 0.25
+0.636944
+Dijkstra macierzowo dla V = 250 i gestosci 0.25
+0.69128
+Dijkstra macierzowo dla V = 500 i gestosci 0.25
+2.99997
+Dijkstra macierzowo dla V = 750 i gestosci 0.25
+6.9931
+Dijkstra macierzowo dla V = 1000 i gestosci 0.25
+13.9113
+Dijkstra macierzowo dla V = 1500 i gestosci 0.25
+32.9466

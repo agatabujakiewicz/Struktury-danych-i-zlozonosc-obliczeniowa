@@ -1,0 +1,12 @@
+Dijkstra listowo dla V = 100 i gestosci 0.99
+0.628491
+Dijkstra listowo dla V = 250 i gestosci 0.99
+0.764332
+Dijkstra listowo dla V = 500 i gestosci 0.99
+1.9537
+Dijkstra listowo dla V = 750 i gestosci 0.99
+4.51898
+Dijkstra listowo dla V = 1000 i gestosci 0.99
+6.9134
+Dijkstra listowo dla V = 1500 i gestosci 0.99
+14.4523

@@ -1,0 +1,12 @@
+MST listowo dla V = 100 i gestosci 0.99
+4.13893
+MST listowo dla V = 250 i gestosci 0.99
+17.0067
+MST listowo dla V = 500 i gestosci 0.99
+44.4227
+MST listowo dla V = 750 i gestosci 0.99
+83.6594
+MST listowo dla V = 1000 i gestosci 0.99
+148.515
+MST listowo dla V = 1500 i gestosci 0.99
+350.63

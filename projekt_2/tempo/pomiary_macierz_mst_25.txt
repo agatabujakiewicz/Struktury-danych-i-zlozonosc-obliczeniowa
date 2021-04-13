@@ -1,0 +1,12 @@
+MST macierzowo dla V = 100 i gestosci 0.25
+2.91213
+MST macierzowo dla V = 250 i gestosci 0.25
+10.1733
+MST macierzowo dla V = 500 i gestosci 0.25
+14.1921
+MST macierzowo dla V = 750 i gestosci 0.25
+15.6444
+MST macierzowo dla V = 1000 i gestosci 0.25
+28.6993
+MST macierzowo dla V = 1500 i gestosci 0.25
+63.5594
